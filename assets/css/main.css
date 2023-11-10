@@ -4854,4 +4854,18 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 		visibility: visible;
 	}
 
+	.cta-button {
+		display: inline-block;
+		padding: 10px 20px;
+		background-color: #003366;
+		color: #ffffff;
+		text-decoration: none;
+		border-radius: 5px;
+		transition: background-color 0.3s ease;
+	}
+
+	.cta-button:hover {
+		background-color: #001f33;
+	}
+
 }

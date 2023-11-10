@@ -1,1 +1,1 @@
-Add my README
+This is my portfolio website to showcase my work as an aspiring Data Scientist.
